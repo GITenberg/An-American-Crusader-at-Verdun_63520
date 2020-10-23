@@ -1,11 +1,16 @@
 _repo: An-American-Crusader-at-Verdun_63520
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63520-h/images/cover.jpg
 creator:
   author:
     agent_name: Rice, Philip Sidney
     gutenberg_agent_id: '52488'
     url: http://www.gutenberg.org/2009/agents/52488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63520#An-American-Crusader-at-Verdun
 gutenberg_issued: '2020-10-21'
 gutenberg_type: Text
 identifiers:
